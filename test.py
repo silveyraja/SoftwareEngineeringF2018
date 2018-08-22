@@ -4,6 +4,7 @@ def main():
     b = 3 + 3
     d = 4 + 5
     print(a+b+d)
+    print(x)
 
 main()
 
